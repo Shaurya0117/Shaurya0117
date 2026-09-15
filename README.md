@@ -31,7 +31,7 @@ I am a **B.Tech CSE (AI & ML)** student passionate about software development an
 
 <div align="center">
   <a href="https://github.com/Shaurya0117">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaurya0117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shaurya's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Shaurya0117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shaurya's GitHub Stats" />
   </a>
   <a href="https://github.com/Shaurya0117">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya0117&theme=tokyonight" alt="Shaurya's GitHub Streak" />
@@ -42,7 +42,7 @@ I am a **B.Tech CSE (AI & ML)** student passionate about software development an
 
 <div align="center">
   <a href="https://github.com/Shaurya0117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya0117&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya0117&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
